@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "NOAH ERP Reverse Engineering",
+    "description": "Enterprise Resource Planning system reverse-engineered and modernized",
+    "shortDescription": "Analyzed legacy ERP system and built modern replacement",
+    "technologies": ["ASP.NET Core", "React", "PostgreSQL", "Microservices"],
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop",
+    "details": "Led the reverse engineering of a legacy ERP system. Designed and implemented a modern microservices-based replacement using ASP.NET Core APIs and React frontend. Improved system performance by 40% and reduced deployment time from 2 hours to 15 minutes.",
+    "role": "Lead Architect",
+    "year": "2024"
+  },
+  {
+    "id": "2",
+    "title": "AI-Powered FAQ System",
+    "description": "Real-time FAQ system with SignalR and microservices architecture",
+    "shortDescription": "Real-time FAQ platform with AI integration",
+    "technologies": ["SignalR", "ASP.NET Core", "React TypeScript", "Azure AI"],
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=400&h=300&fit=crop",
+    "details": "Developed a real-time FAQ system leveraging SignalR for instant updates and Azure AI for intelligent response generation. Implemented comprehensive microservices architecture for scalability and maintainability. Handled 10,000+ concurrent users with zero downtime.",
+    "role": "Full Stack Developer",
+    "year": "2023"
+  },
+  {
+    "id": "3",
+    "title": "Inventory & HRIS System",
+    "description": "Integrated inventory management with human resources information system",
+    "shortDescription": "Multi-module enterprise system",
+    "technologies": ["ASP.NET Core", "SQL Server", "React", "Docker", "Kubernetes"],
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+    "details": "Designed and developed an integrated inventory management and HRIS platform serving 500+ employees. Implemented containerized deployment using Docker and Kubernetes for automatic scaling. Reduced operational overhead by 30%.",
+    "role": "System Architect",
+    "year": "2023"
+  },
+  {
+    "id": "4",
+    "title": "React + ASP.NET Core Real-Time Dashboard",
+    "description": "Live analytics dashboard with real-time data synchronization",
+    "shortDescription": "Real-time analytics and monitoring dashboard",
+    "technologies": ["React TypeScript", "ASP.NET Core", "SignalR", "Chart.js", "Redux"],
+    "image": "https://images.unsplash.com/photo-1677442d019cecf8d87fd9c8fdf86b7f65519f21?w=400&h=300&fit=crop",
+    "details": "Built a real-time analytics dashboard featuring live data synchronization via SignalR. Implemented complex state management with Redux for efficient data flow. Dashboard processes 1000+ data points per second with sub-100ms latency.",
+    "role": "Senior Developer",
+    "year": "2024"
+  },
+  {
+    "id": "5",
+    "title": "Cloud DevOps Pipeline",
+    "description": "CI/CD pipeline for automated deployment and infrastructure management",
+    "shortDescription": "Automated DevOps infrastructure",
+    "technologies": ["Azure DevOps", "Kubernetes", "Docker", "Terraform", "GitHub Actions"],
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+    "details": "Architected and implemented a comprehensive DevOps pipeline using Azure, Docker, and Kubernetes. Automated infrastructure provisioning with Terraform, reducing deployment time by 80% and improving reliability to 99.9% uptime.",
+    "role": "DevOps Engineer",
+    "year": "2023"
+  },
+  {
+    "id": "6",
+    "title": "Microservices Architecture Migration",
+    "description": "Migrated monolithic application to scalable microservices",
+    "shortDescription": "Enterprise application modernization",
+    "technologies": ["ASP.NET Core", "Docker", "Kubernetes", "RabbitMQ", "PostgreSQL"],
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f70d504d0?w=400&h=300&fit=crop",
+    "details": "Led migration of legacy monolithic application to microservices architecture. Implemented message-driven communication using RabbitMQ. Improved system scalability, enabling 5x increase in concurrent users without performance degradation.",
+    "role": "Technical Lead",
+    "year": "2024"
+  }
+]
